@@ -1,0 +1,8 @@
+@media only screen and (max-width: 600px) {
+    .nav2 {
+        border-top: 5px solid black;
+        border-bottom: 5px solid black;
+        overflow-x: auto;
+        overflow-y: initial;
+    }
+}
